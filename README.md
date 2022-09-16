@@ -13,6 +13,9 @@ Projeto criado como exercício de aprendizado para <strong>Mudança de Tema (cor
     <li>Uso e entendimanto do <strong>local storage do HTML 5</strong>.</li> 
   </ul>
   <br/>
+  
+ ### * Como aprendido na Rocketseat, procuro manter a <strong>ACESSIBILIDADE</strong> nas aplicações.
+ <br/>
 
 ## O que foi feito - 🔥 Caminhando sozinho 🔥
 
