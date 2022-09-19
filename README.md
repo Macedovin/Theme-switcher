@@ -10,7 +10,7 @@ Projeto criado como exercício de aprendizado para <strong>Mudança de Tema (cor
     <li>Praticar <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong>;</li>
     <li>Praticar e enteder melhor a <strong>DOM</strong>;</li>
     <li>Visualizar e entender a <strong>integração destas 3 linguagens de programação</strong>;</li>
-    <li>Uso e entendimanto do <strong>local storage do HTML 5</strong>.</li> 
+    <li>Uso e entendimento do <strong>local storage do HTML 5</strong>.</li> 
   </ul>
   <br/>
   
