@@ -47,6 +47,6 @@ Decidi acrescentar alguns detalhes a mais no projeto:
 
      <summary>Projeto funcionando</summary>
      <br/>
-     <a href="https://vmpilustra.github.io/Theme-switcher/" target="_blank">Troque o tema!</a>
+     <a href="https://macedovin.github.io/Theme-switcher/" target="_blank">Troque o tema!</a>
 
    </details>
